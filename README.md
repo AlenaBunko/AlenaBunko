@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
- <a href="linkedin.com/in/alena-bunko-b928851b3">
+ <a href="https://www.linkedin.com/in/alena-bunko-b928851b3/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -33,7 +33,7 @@ I am Java Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 - :zap: I improve my skills by reading books and solving problems on LeetCode, Codewars, Geeksforgeeks
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AlenaBunko-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/alena-bunko-b928851b3)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AlenaBunko-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alena-bunko-b928851b3/)
 
 ---
 
