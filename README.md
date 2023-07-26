@@ -20,7 +20,7 @@
 </div>
 ---
 <div align="center">
-  <img src="https://krot.info/uploads/posts/2021-03/1614568984_17-p-devushka-za-kompyuterom-art-kartinki-23.jpg" width="600" height="300"/>
+  <img src="https://krot.info/uploads/posts/2020-10/1603674276_57-p-fon-dlya-prezentatsii-po-informatike-69.jpg" width="600" height="300"/>
 </div>
 
 ---
